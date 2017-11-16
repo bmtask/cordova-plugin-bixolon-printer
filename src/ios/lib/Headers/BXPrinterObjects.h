@@ -16,6 +16,7 @@
 
 @property (retain)	NSString		*name;
 @property (retain)	NSString		*address;
+@property (retain)	NSString		*serialNumber;
 @property (retain)	NSString		*modelStr;
 @property (retain)	NSString		*versionStr;
 @property (retain)	NSString		*friendlyName;
